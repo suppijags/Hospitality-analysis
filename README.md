@@ -1,18 +1,16 @@
-# Hospitality-analysisProblem statement
-Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+# Hospitality-analysis
+Problem Statement:
+Atliq Grands, a prominent player in the Indian hospitality industry with a two-decade presence and a chain of luxury hotels, is facing a decline in market share and revenue within the luxury/business hotels segment. This decline can be attributed to strategic maneuvers by competitors and suboptimal decision-making within the management. In response, the managing director of Atliq Grands aims to revitalize the business by integrating "Business and Data Intelligence." However, the lack of an in-house data analytics team necessitates the engagement of a third-party service provider to extract valuable insights from historical data.
 
-Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
+Task List:
+As a data analyst entrusted with the responsibility, your role involves working on a set of tasks. This includes creating metrics based on the provided metric list, developing a dashboard aligned with stakeholder expectations, and generating additional insights beyond the specified metric list and mock-up dashboard. Access to relevant documents is available in the download section.
 
-Task List
-You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
-Create the metrics according to the metric list.
-Create a dashboard according to the mock-up provided by stakeholders.
-Create relevant insights that are not provided in the metric list/mock-up dashboard.
-Some Important insights from the Dashboard
-Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
-AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
-AtliQ Bay has the highest occupancy of 66%
-Week 24 recorded the highest revenue among all, which is 139.6 Million
-Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
-AtliQ lost around 298 Million in cancellation
-Elite type rooms has the most booking and as well higher cancellation rate
+Key Insights from the Dashboard:
+
+Mumbai emerges as the top revenue generator at 669 million, with Bangalore, Hyderabad, and Delhi following suit.
+AtliQ Exotica outperforms all seven property types, boasting a revenue of 320 million, a rating of 3.62, a 57% occupancy rate, and a 24.4% cancellation rate.
+AtliQ Bay claims the highest occupancy rate at 66%.
+Week 24 records the highest revenue among all weeks, totaling 139.6 million.
+Delhi leads in both occupancy and rating, with Hyderabad, Mumbai, and Bangalore following in the rankings.
+AtliQ experiences a substantial loss of 298 million due to cancellations.
+Elite-type rooms exhibit the highest booking rates but also face a relatively higher cancellation rate.
